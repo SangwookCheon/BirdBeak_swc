@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d96b9a02-a89b-4fe2-9769-da703f6db964" name="Default" comment="" />
+    <list default="true" id="d96b9a02-a89b-4fe2-9769-da703f6db964" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Front_Kivy/simulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Front_Kivy/simulation.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +31,8 @@
       <file leaf-file-name="simulation.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Front_Kivy/simulation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="92">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -72,7 +74,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="front_kivy" />
       </map>
     </option>
   </component>
@@ -115,11 +117,6 @@
               <item name="BirdBeak_swc" type="b2602c69:ProjectViewProjectNode" />
               <item name="BirdBeak_swc" type="462c0819:PsiDirectoryNode" />
               <item name="BackEnd_Kivy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BirdBeak_swc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BirdBeak_swc" type="462c0819:PsiDirectoryNode" />
-              <item name="Front_Kivy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,8 +204,8 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.3298292" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3298292" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3298292" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="R Packages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" />
@@ -284,8 +281,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Front_Kivy/simulation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
