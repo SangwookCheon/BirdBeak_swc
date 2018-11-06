@@ -5,9 +5,9 @@ from kivy.uix.button import Button
 from kivy.uix.textinput import TextInput
 from kivy.uix.gridlayout import GridLayout
 
-class BirdBeak(GridLayout):
+class Grid1(GridLayout):
     def __init__(self, **kwargs):
-        super(BirdBeak, self).__init__(**kwargs)
+        super(Grid1, self).__init__(**kwargs)
         self.cols = 2
         self.add_widget(Label(text = "User Name:"))
         self.username = TextInput(multiline = False)
@@ -18,7 +18,7 @@ class BirdBeak(GridLayout):
 
 class MyApp(App):
     def build(self):
-        return BirdBeak()
+        return Grid1()
 
 
 if __name__ == "__main__":
