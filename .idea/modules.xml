@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/BirdBeak_swc.iml" filepath="$PROJECT_DIR$/.idea/BirdBeak_swc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Bird_Simulation/.idea/Bird_Simulation.iml" filepath="$PROJECT_DIR$/../Bird_Simulation/.idea/Bird_Simulation.iml" />
     </modules>
   </component>
 </project>
