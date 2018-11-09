@@ -2,5 +2,5 @@ class Hello(object):
     def create(self):
         return "Hello"
 
-def definitely():
+def print_message():
     return "Hello"
