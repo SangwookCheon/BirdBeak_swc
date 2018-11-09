@@ -1,3 +1,4 @@
-import kivy
-from kivy.app import App
-import BackEnd_Kivy
+print "[importing modules from Front_Kivy...]"
+import Front_Kivy.simulation
+print "[import successful]"
+print ""
